@@ -1,21 +1,16 @@
-# app
+#### stork
+Fly from town to town and get your kilometers count
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![enter image description here](https://media.giphy.com/media/9DAzZFvFZ2Thw7shJO/giphy.gif)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
+Live website available [here](https://kcaddt.github.io/stork/)
+
+
+##### Run locally  
+
+Download the repository and run
 ```
-npm run lint
+npm install && npm run serve
 ```
